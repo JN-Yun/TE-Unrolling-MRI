@@ -45,11 +45,11 @@ I would like to thank [@Yaşar Utku Alçalar](https://github.com/ualcalar17) for
 ## 📝 BibTeX
 ```bibtex
 
-@inproceedings{yuntime,
-  title={Time-Embedded Algorithm Unrolling for Computational MRI},
-  author={Yun, Junno and Alcalar, Yasar Utku and Akcakaya, Mehmet},
-  booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
-  year = {2025}
-}
-
+@inproceedings{yun2025timeembedded,
+    title={Time-Embedded Algorithm Unrolling for Computational {MRI}},
+    author={Junno Yun and Yasar Utku Alcalar and Mehmet Akcakaya},
+    booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems},
+    year={2025},
+    url={https://openreview.net/forum?id=DcFoi71Fgf}
+    }
 ```
