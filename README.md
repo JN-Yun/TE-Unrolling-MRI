@@ -1,4 +1,4 @@
-# Time-Embedded Algorithm Unrolling for Computational MRI
+## Time-Embedded Algorithm Unrolling for Computational MRI
 [![arXiv](https://img.shields.io/badge/arXiv-2301.01234-red.svg)](https://arxiv.org/pdf/2510.16321)
 [![NeurIPS](https://img.shields.io/badge/Conference-NeurIPS-00BFFF.svg)](https://neurips.cc/virtual/2025/loc/san-diego/poster/119206)
 
