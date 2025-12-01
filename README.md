@@ -42,8 +42,7 @@ sh demo.sh
 I would like to thank [@Yaşar Utku Alçalar](https://github.com/ualcalar17) for laying the foundation of this code and for his great support.
 
 
-## 📝 Citation
-If you use this code, please cite our paper:
+## 📝 BibTeX
 ```bibtex
 
 @inproceedings{yuntime,
