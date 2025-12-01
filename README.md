@@ -38,10 +38,6 @@ sh demo.sh
 ```
 
 
-## 🙏 Acknowledgements
-I would like to thank [@Yaşar Utku Alçalar](https://github.com/ualcalar17) for laying the foundation of this code and for his great support.
-
-
 ## 📝 BibTeX
 ```bibtex
 
