@@ -25,9 +25,9 @@ pip install requirement.txt
 ```bash
 sh task.sh
 ```
-You can configure the number of unrolling steps, acceleration rate, dataset, loss domain, model, and unrolling algorithm in `task.sh`. \
-The configurations corresponding to the settings reported in the paper are automatically implemented in `configs.py`. \
-For additional custom configurations, please edit `configs.py` accordingly.
+You can configure the number of unrolling steps, acceleration rate, dataset, loss domain, model, and unrolling algorithm in `task.sh`.
+The configurations corresponding to the settings reported in the paper are automatically implemented in `configs.py`.
+For additional custom configurations or datasets, please modify `configs.py` or `utils.py` accordingly.
 
 ### 3. Run Demo Code
 We provide a pre-trained ResNet model with our proposed method (PD, R=4, 10unrolls):
