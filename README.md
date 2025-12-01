@@ -15,7 +15,7 @@ It provides an implementation of the proposed time-embedded algorithm unrolling 
 ### 1. Create Conda Environment and Install Requirements
 
 ```bash
-conda env create -f environment.yml -n {env_name}
+conda env create -n {env_name} python=3.9 -y
 conda activate {env_name}
 
 cd TE-Unrolling-MRI
