@@ -19,7 +19,7 @@ conda env create -n {env_name} python=3.9 -y
 conda activate {env_name}
 
 cd TE-Unrolling-MRI
-pip install requirement.txt
+pip install requirements.txt
 ```
 
 ### 2. Run Train / Test Code
